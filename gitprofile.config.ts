@@ -52,12 +52,12 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Imaan Heer',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: 'imaan-heer',
     x: '',
     mastodon: '',
     researchGate: '',
@@ -74,29 +74,26 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
-    phone: '',
-    email: 'tvanlaar@csustan.edu',
+    website: 'https://Meepish190.github.io',
+    phone: '209-905-2027',
+    email: 'iheer@csustan.edu',
   },
   resume: {
     fileUrl:
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
+    'R',
+    'Python',
     'JavaScript',
     'React.js',
     'Node.js',
     'Nest.js',
-    'MySQL',
-    'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
+    'HTML',
     'CSS',
-    'Antd',
-    'Tailwind',
+    
   ],
   experiences: [
     {
@@ -124,16 +121,16 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Modesto Junior College',
+      degree: 'Associate of Arts',
+      from: '2021',
+      to: '2023',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Stanislaus State University',
+      degree: 'Bachelor of Computer Science',
+      from: '2023',
+      to: 'Present',
     },
   ],
   publications: [
